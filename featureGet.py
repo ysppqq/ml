@@ -84,3 +84,4 @@ print vectorizer.get_feature_names()
 #获取分词结果
 for i in vectorizer.get_feature_names():
     print i
+
